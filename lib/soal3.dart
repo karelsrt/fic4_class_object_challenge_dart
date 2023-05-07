@@ -28,5 +28,5 @@ void main() {
   var simpan3 = nasabah2.simpan(6000);
   var ambil3 = nasabah2.ambil(1000);
   print(
-      "Nasabah Atas nama ${nasabah2.nama} dengan alamat ${nasabah2.alamat} telah menyimpan uang $simpan3 diambil  uang $ambil3 saldo sekarang  ${nasabah1.saldo}");
+      "Nasabah Atas nama ${nasabah2.nama} dengan alamat ${nasabah2.alamat} telah menyimpan uang $simpan3 diambil  uang $ambil3 saldo sekarang  ${nasabah2.saldo}");
 }
